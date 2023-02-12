@@ -1,0 +1,3 @@
+# javaProject
+
+This General Knowledge Quiz has been designed and developed using the Java programming language, known for its stability, security, and scalability. The quiz is comprised of multiple-choice questions that will challenge your knowledge and assess your understanding across a range of subjects. The program has been designed to accurately calculate your score, as well as track and display the average score of all users who have taken the quiz. This information is stored in a database, ensuring the accuracy and reliability of the results. The use of JavaFX has enabled us to create a highly efficient and interactive quiz that provides an enjoyable and informative experience for users."
